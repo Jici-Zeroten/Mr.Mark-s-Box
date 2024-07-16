@@ -84,3 +84,6 @@ Hey guys, this is Mr. Mark's box. When we encounter good things on the Internet,
 |                             zure                             |            [https://zure.fun](https://zure.fun/)             |                        需注册，还不错                        |
 |                            走读派                            |     [http://www.zoudupai.com](http://www.zoudupai.com/)      |                           书站导航                           |
 |                          Kindle伴侣                          |               [https://bookf](https://bookf/)                |                             null                             |
+|                    中小学电子教材下载站点                    |                 https://textbook.synaiv.com/                 |                             null                             |
+|           [Python Tutor](https://pythontutor.com/)           | 一个蛮实用的针对初学者和开发者的代码可视化学习工具。可以帮助初学者和有经验的开发者更好地理解和可视化 Python 代码的执行过程。你可以在网站上输入 Python 代码，然后通过可视化工具逐步查看代码的执行过程，除了 Python，网站还支持 Java、JavaScript、TypeScript、Ruby、C 和 C++ 等编程语言。很适合我这种菜鸟理解代码逻辑。 |      蛮有意思的，相比起初学者我觉得对资深开发者更有用。      |
+|          [好学电子课本网](http://www.5haoxue.net/)           |              一个免费在线中小学电子教材试卷网站              |                             null                             |
