@@ -87,3 +87,7 @@ Hey guys, this is Mr. Mark's box. When we encounter good things on the Internet,
 |                    中小学电子教材下载站点                    |                 https://textbook.synaiv.com/                 |                             null                             |
 |           [Python Tutor](https://pythontutor.com/)           | 一个蛮实用的针对初学者和开发者的代码可视化学习工具。可以帮助初学者和有经验的开发者更好地理解和可视化 Python 代码的执行过程。你可以在网站上输入 Python 代码，然后通过可视化工具逐步查看代码的执行过程，除了 Python，网站还支持 Java、JavaScript、TypeScript、Ruby、C 和 C++ 等编程语言。很适合我这种菜鸟理解代码逻辑。 |      蛮有意思的，相比起初学者我觉得对资深开发者更有用。      |
 |          [好学电子课本网](http://www.5haoxue.net/)           |              一个免费在线中小学电子教材试卷网站              |                             null                             |
+|        [justinesoulie.fr](https://justinesoulie.fr/)         | 一本在线的艺术杂志，可视化的展现了很多有趣的内容![image-20240827192551302](README/image-20240827192551302.png) |                             null                             |
+|           [Works - oimo.io](https://oimo.io/works)           | 一些有趣的前端动画效果![image-20240827192527825](README/image-20240827192527825.png) |                             null                             |
+|    [精选的网页设计灵感目录 ](https://www.curated.design/)    |                  一个收纳网页设计灵感的网站                  |                   多是一些有特色的产品官网                   |
+|       [Free for Developers ](https://free-for.dev/#/)        |         一个专门来整理可以免费使用的开发者工具的站点         |                             null                             |
