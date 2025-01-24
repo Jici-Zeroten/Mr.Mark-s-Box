@@ -107,4 +107,5 @@ Hey guys, this is Mr. Mark's box. When we encounter good things on the Internet,
 |         [纪妖（原名知妖）](https://www.cbaigui.com/)         |                一个收集古今妖怪相关信息的站点                |        有时间是真想把这些全都看一遍，想想就感兴趣啊！        |
 |         [When They Work ](https://whenthey.work/zh)          |             快速查看指定国家或城市是否在工作时间             |                             null                             |
 |                 [句乐部](https://julebu.co/)                 |                  一个开源的在线学习英语网站                  |               还挺多人推这个站的，感觉风评不错               |
+| [AE模板下载站](https://www.newcger.com/aemoban/list_1.html?t3=60) |                     分享了一些AE特效模板                     |                             null                             |
 
