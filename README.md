@@ -108,4 +108,9 @@ Hey guys, this is Mr. Mark's box. When we encounter good things on the Internet,
 |         [When They Work ](https://whenthey.work/zh)          |             快速查看指定国家或城市是否在工作时间             |                             null                             |
 |                 [句乐部](https://julebu.co/)                 |                  一个开源的在线学习英语网站                  |               还挺多人推这个站的，感觉风评不错               |
 | [AE模板下载站](https://www.newcger.com/aemoban/list_1.html?t3=60) |                     分享了一些AE特效模板                     |                             null                             |
+|         [MacOS应用图标站](https://macosicons.com/#/)         |                   收集了很多MacOS应用图标                    |                             null                             |
+|                 https://comparingheight.com/                 |                 一个简单的可视化身高比较平台                 |                          挺有意思的                          |
+|               [漫本](https://www.manben.com/)                |         一个原创漫画发行平台，提供丰富的在线漫画资源         |                             null                             |
+|     [Notion风格头像制作 ](https://notion-avatar.app/zh)      |                   一个Notion风格头像生成器                   |          挺有意思的，这种风格Notion狂热者应该会喜欢          |
+|                                                              |                                                              |                                                              |
 
