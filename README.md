@@ -112,5 +112,11 @@ Hey guys, this is Mr. Mark's box. When we encounter good things on the Internet,
 |                 https://comparingheight.com/                 |                 一个简单的可视化身高比较平台                 |                          挺有意思的                          |
 |               [漫本](https://www.manben.com/)                |         一个原创漫画发行平台，提供丰富的在线漫画资源         |                             null                             |
 |     [Notion风格头像制作 ](https://notion-avatar.app/zh)      |                   一个Notion风格头像生成器                   |          挺有意思的，这种风格Notion狂热者应该会喜欢          |
-|                                                              |                                                              |                                                              |
+| [B站美化扩展插件](https://github.com/BewlyBewly/BewlyBewly)  |           一个对网页端BiliBili进行美化的浏览器扩展           |                  很有设计感，有机会可以试试                  |
+|   [PixPin - 强大且免费的截图贴图工具](https://pixpin.cn/)    |                      一个强大的截图工具                      | 简单用了一下，还不错，基本上可以代替Utools、Snipasted的图处理功能，可惜我已经用习惯了，不太想换，没用过其他截图工具的可以闭眼冲 |
+| [AI Reading List](https://tidyread.ai/recommended-recipes/ai-reading-list-pro-cn) |                     一个AI投资人优质信源                     |               信源质量很高，玩AI投资可以关注下               |
+| [superDMS](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-) |      一个可以冻结游戏进程并释放资源和随时恢复进程的软件      |                听起来挺酷的，有需要的时候试试                |
+|  [xiaosongQRfont](https://github.com/hnzxs/xiaosongQRfont)   |     一款二维码字体库，简单来说就是把一个字转为一个二维码     |                      脑洞挺大的整活项目                      |
+
+
 
