@@ -119,6 +119,8 @@ Hey guys, this is Mr. Mark's box. When we encounter good things on the Internet,
 |  [xiaosongQRfont](https://github.com/hnzxs/xiaosongQRfont)   |     一款二维码字体库，简单来说就是把一个字转为一个二维码     |                      脑洞挺大的整活项目                      |
 |                   各版本纯净Windows镜像站                    | 微软官方系列镜像站： https://www.microsoft.com/zh-cn/software-download<br/>i tell you： https://next.itellyou.cn/<br/>山己几子木： https://msdn.sjjzm.com/<br/>系统库： https://www.xitongku.com/ |                             null                             |
 |          [Cheatography](https://cheatography.com/)           |                      一个速查表集合网站                      |                   涉及各种领域，还挺实用的                   |
+|      [中国五级行政区划查询](https://map.ruiduobao.com/)      | 可以查询中国省、市、县、乡镇和村的区划数据，看到各种隶属关系 | 听说是作者历时四年归纳、反推、整理的数据，以后有做地理信息系统相关业务可以回来看看 |
+|             国内教育/教培行业各种资料（含教材）              | 教材：[https://github.com/TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)<br />教育各种资料：[https://github.com/mswnlz/edu-knowlege](https://github.com/mswnlz/edu-knowlege)<br />国家中小学智慧教育平台电子课本下载工具：[https://github.com/happycola233/tchMaterial-parser](https://github.com/happycola233/tchMaterial-parser)<br />国家中小学智慧教育平台：[https://basic.smartedu.cn/](https://basic.smartedu.cn/) |                             null                             |
 
 
 
