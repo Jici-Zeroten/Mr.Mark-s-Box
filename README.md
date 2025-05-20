@@ -123,6 +123,8 @@ Hey guys, this is Mr. Mark's box. When we encounter good things on the Internet,
 |             国内教育/教培行业各种资料（含教材）              | 教材：[https://github.com/TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)<br />教育各种资料：[https://github.com/mswnlz/edu-knowlege](https://github.com/mswnlz/edu-knowlege)<br />国家中小学智慧教育平台电子课本下载工具：[https://github.com/happycola233/tchMaterial-parser](https://github.com/happycola233/tchMaterial-parser)<br />国家中小学智慧教育平台：[https://basic.smartedu.cn/](https://basic.smartedu.cn/) |                             null                             |
 | [The Piracy Glossary ](https://rentry.org/The-Piracy-Glossary#music-terms) |                     一个资源类术语集合站                     | 大概看了下，主要介绍的是找资源时（如动漫、音乐、视频、游戏等）会常看见的一些术语 |
 |                [GitFlic](https://gitflic.ru/)                | 一个俄罗斯本土化的代码托管平台，旨在为开发者提供类似 GitHub 的服务，同时注重本地化支持和安全性 |                             null                             |
+|            [WhatRuns](https://www.whatruns.com/)             |                  用于识别网站上使用到的技术                  | 用的少，我一般用Wappalyzer。并且感觉在渗透测试时这类工具的存在感很低，好像做了什么又好像什么都没做 |
+|           [PixelSnap](https://getpixelsnap.com/zh)           | 一款macOS应用程序，设计师和网页开发者只需点击和拖动光标，就可以轻松地测量屏幕上的任何东西。只需在周围的区域拖动，便会立即自动地找到任何物体的边界 |   前端设计师经常用到工具，之前看过类似的，不知道是不是这款   |
 
 
 
