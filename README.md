@@ -125,6 +125,7 @@ Hey guys, this is Mr. Mark's box. When we encounter good things on the Internet,
 |                [GitFlic](https://gitflic.ru/)                | 一个俄罗斯本土化的代码托管平台，旨在为开发者提供类似 GitHub 的服务，同时注重本地化支持和安全性 |                             null                             |
 |            [WhatRuns](https://www.whatruns.com/)             |                  用于识别网站上使用到的技术                  | 用的少，我一般用Wappalyzer。并且感觉在渗透测试时这类工具的存在感很低，好像做了什么又好像什么都没做 |
 |           [PixelSnap](https://getpixelsnap.com/zh)           | 一款macOS应用程序，设计师和网页开发者只需点击和拖动光标，就可以轻松地测量屏幕上的任何东西。只需在周围的区域拖动，便会立即自动地找到任何物体的边界 |   前端设计师经常用到工具，之前看过类似的，不知道是不是这款   |
+|              [Tailscan](https://tailscan.com/)               | 一款Tailwind CSS浏览器扩展，以可视化方式构建、设计和调试 Tailwind 网站 |           接上文 ↑ ：找到了，我之前看到过的是这款            |
 
 
 
