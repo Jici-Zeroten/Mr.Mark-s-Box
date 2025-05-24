@@ -128,6 +128,8 @@ Hey guys, this is Mr. Mark's box. When we encounter good things on the Internet,
 |              [Tailscan](https://tailscan.com/)               | 一款Tailwind CSS浏览器扩展，以可视化方式构建、设计和调试 Tailwind 网站 |           接上文 ↑ ：找到了，我之前看到过的是这款            |
 |     [Tickeys](https://www.yingdev.com/projects/tickeys)      | 一款打字音效软件![image-20250522164204791](README/image-20250522164204791.png) | 小时候的手机输入法就自带打字音效，没想到PC也有这种软件，可以抱着梦回童年的心理玩一玩 |
 |            [FakeUpdate](https://fakeupdate.net/)             |            在屏幕上展示一个假的 Windows 更新画面             |                             null                             |
+|               [soarXiv](https://soarxiv.org/)                | 一个将[arXiv](https://arxiv.org/)论文可视化为宇宙星系的站点![image-20250524155456477](README/image-20250524155456477.png) |                             null                             |
+| [新经济倒闭公司数据库](https://www.itjuzi.com/deathCompany)  |                         死亡公司公墓                         |                             null                             |
 
 
 
