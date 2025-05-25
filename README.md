@@ -130,6 +130,7 @@ Hey guys, this is Mr. Mark's box. When we encounter good things on the Internet,
 |            [FakeUpdate](https://fakeupdate.net/)             |            在屏幕上展示一个假的 Windows 更新画面             |                             null                             |
 |               [soarXiv](https://soarxiv.org/)                | 一个将[arXiv](https://arxiv.org/)论文可视化为宇宙星系的站点![image-20250524155456477](README/image-20250524155456477.png) |                             null                             |
 | [新经济倒闭公司数据库](https://www.itjuzi.com/deathCompany)  |                         死亡公司公墓                         |                             null                             |
+|         [PUBG](https://github.com/kiccer/Soldier76)          |            罗技鼠标宏，Logitech鼠标宏自动压枪脚本            |                             null                             |
 
 
 
