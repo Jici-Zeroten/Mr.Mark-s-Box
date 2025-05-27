@@ -131,7 +131,8 @@ Hey guys, this is Mr. Mark's box. When we encounter good things on the Internet,
 |               [soarXiv](https://soarxiv.org/)                | 一个将[arXiv](https://arxiv.org/)论文可视化为宇宙星系的站点![image-20250524155456477](README/image-20250524155456477.png) |                             null                             |
 | [新经济倒闭公司数据库](https://www.itjuzi.com/deathCompany)  |                         死亡公司公墓                         |                             null                             |
 |         [PUBG](https://github.com/kiccer/Soldier76)          |            罗技鼠标宏，Logitech鼠标宏自动压枪脚本            |                             null                             |
-|          [大学生活质量指北](https://colleges.chat/)          | 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节。开源项目地址：[CollegesChat](https://github.com/CollegesChat/university-information) |                        这将是英雄项目                        |
+|          [大学生活质量指北](https://colleges.chat/)          | 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节。开源项目地址：[CollegesChat](https://github.com/CollegesChat/university-information) |                       这将是个英雄项目                       |
+| [加密货币交易所安全风险指南精编](https://github.com/nexvault/CEX-Security) |             梳理了Web3交易所的风险场景及安全工作             |                             null                             |
 
 
 
