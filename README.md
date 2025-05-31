@@ -135,6 +135,7 @@ Hey guys, this is Mr. Mark's box. When we encounter good things on the Internet,
 | [加密货币交易所安全风险指南精编](https://github.com/nexvault/CEX-Security) |             梳理了Web3交易所的风险场景及安全工作             |                             null                             |
 |      [js-to-exe](https://github.com/astracompiler/cli)       |        能直接将 JS/TS 代码编译成独立可运行的 exe 文件        |                   有点意思，有空的时候试试                   |
 | [trendingrepos](https://trendingrepos.glup3.dev/?time=daily) | 一个增强版的 GitHub 趋势页面，支持查看不同时间段（日、周、月）内星标最多的 GitHub 仓库排行榜。开源项目地址：[Glup3/trendingrepos](https://github.com/Glup3/trendingrepos) |                             null                             |
+|            [paotuan.io](https://www.paotuan.io/)             | 一个跑团平台/跑团机器人/跑团骰子。开源项目地址：[paotuan/qqchannel-bot](https://github.com/paotuan/qqchannel-bot) |                     跑团看起来挺有意思的                     |
 
 
 
