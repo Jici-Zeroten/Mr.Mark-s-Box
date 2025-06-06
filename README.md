@@ -141,6 +141,8 @@ Hey guys, this is Mr. Mark's box. When we encounter good things on the Internet,
 |         OBS鼠标区域放大+鼠标跟随（鼠标跟随录制）插件         | [OBS Lua - Zoom to Mouse](https://obsproject.com/forum/resources/zoom-to-mouse.1823/)<br />[BlankSourceCode/obs-zoom-to-mouse](https://github.com/BlankSourceCode/obs-zoom-to-mouse) |                             null                             |
 |                微软官方出品/推荐的效率工具集                 | [Sysinternals 实用工具](https://learn.microsoft.com/zh-cn/sysinternals/downloads/)<br />[Microsoft PowerToys](https://learn.microsoft.com/zh-cn/windows/powertoys/) |                             null                             |
 | [ZoomIt](https://learn.microsoft.com/zh-cn/sysinternals/downloads/zoomit) | 用于技术展示和演示的屏幕缩放、注释和录制工具，支持屏幕画笔、鼠标区域放大、鼠标跟随录制。 |                             null                             |
+|                 [Git](https://git-scm.com/)                  |                           git官网                            |                             null                             |
+|   [TrackersListCollection](https://trackerslist.com/#/zh)    | 一个优质的 Tracker 列表。开源项目地址：[XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) |           想来也很久没捣鼓BT了，有空的时候可以玩玩           |
 
 
 
