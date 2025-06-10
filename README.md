@@ -143,6 +143,7 @@ Hey guys, this is Mr. Mark's box. When we encounter good things on the Internet,
 | [ZoomIt](https://learn.microsoft.com/zh-cn/sysinternals/downloads/zoomit) | 用于技术展示和演示的屏幕缩放、注释和录制工具，支持屏幕画笔、鼠标区域放大、鼠标跟随录制。 |                             null                             |
 |                 [Git](https://git-scm.com/)                  |                           git官网                            |                             null                             |
 |   [TrackersListCollection](https://trackerslist.com/#/zh)    | 一个优质的 Tracker 列表。开源项目地址：[XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) |           想来也很久没捣鼓BT了，有空的时候可以玩玩           |
+| [awesome-hacker-news](https://github.com/cheeaun/awesome-hacker-news) | 一个汇整了与 Hacker News 相关网页应用、移动端 App、RSS/Atom 订阅、桌面客户端、命令行工具的项目 |                             null                             |
 
 
 
