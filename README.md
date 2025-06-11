@@ -144,6 +144,7 @@ Hey guys, this is Mr. Mark's box. When we encounter good things on the Internet,
 |                 [Git](https://git-scm.com/)                  |                           git官网                            |                             null                             |
 |   [TrackersListCollection](https://trackerslist.com/#/zh)    | 一个优质的 Tracker 列表。开源项目地址：[XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) |           想来也很久没捣鼓BT了，有空的时候可以玩玩           |
 | [awesome-hacker-news](https://github.com/cheeaun/awesome-hacker-news) | 一个汇整了与 Hacker News 相关网页应用、移动端 App、RSS/Atom 订阅、桌面客户端、命令行工具的项目 |                             null                             |
+|      [musikcube](https://github.com/clangen/musikcube)       | 一款可以在Windows、MacOS、Linux以及树莓派上运行的终端音乐播放器 | 这是我在24年看过的最酷的终端音乐播放器，当时忘记mark了，后来就再也找不到了，但现在它又回到了我的身边！ |
 
 
 
