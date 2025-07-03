@@ -147,4 +147,5 @@ Hey guys, this is Mr. Mark's box. When we encounter good things on the Internet,
 |      [musikcube](https://github.com/clangen/musikcube)       | 一款可以在Windows、MacOS、Linux以及树莓派上运行的终端音乐播放器 | 这是我在24年看过的最酷的终端音乐播放器，当时忘记mark了，后来就再也找不到了，但现在它又回到了我的身边！ |
 |           [RustDesk](https://rustdesk.com/zh-cn/)            | 一款远控软件。开源项目地址：[rustdesk](https://github.com/rustdesk/rustdesk) |                             null                             |
 | [jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest?tab=readme-ov-file) | GitHub上的电子书合集，涵盖喜马拉雅、微信读书、京东读书等App  |                             null                             |
+|             [必应壁纸](https://bing.wdbyte.com/)             | 一个抓取并收录了必应每日超清4K壁纸的网站。开源项目地址：[niumoo/bing-wallpaper](https://github.com/niumoo/bing-wallpaper/) |                             null                             |
 
