@@ -149,4 +149,5 @@ Hey guys, this is Mr. Mark's box. When we encounter good things on the Internet,
 | [jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest?tab=readme-ov-file) | GitHub上的电子书合集，涵盖喜马拉雅、微信读书、京东读书等App  |                             null                             |
 |             [必应壁纸](https://bing.wdbyte.com/)             | 一个抓取并收录了必应每日超清4K壁纸的网站。开源项目地址：[niumoo/bing-wallpaper](https://github.com/niumoo/bing-wallpaper/) |                             null                             |
 |             [shadcn/ui](https://ui.shadcn.com/)              | 一个近年来迅速崛起的前端开源 UI 组件库项目。开源项目地址：[shadcn-ui/ui](https://github.com/shadcn-ui/ui) |                             null                             |
+| [TW-NLP/ChineseErrorCorrector](https://github.com/TW-NLP/ChineseErrorCorrector?tab=readme-ov-file) |                       中文文本纠错检测                       |                         有空可以试试                         |
 
