@@ -153,4 +153,5 @@ Hey guys, this is Mr. Mark's box. When we encounter good things on the Internet,
 |               [Folo](https://folo.is/download)               |                     一个开源的RSS阅读器                      |              宣传力度很大，不知道具体效果怎么样              |
 | [extesy/hoverzoom](https://github.com/extesy/hoverzoom?tab=readme-ov-file) |      用于在鼠标悬停时缩放图像的 Google Chrome 扩展程序       | 之前做网安舆情的时候略有耳闻，貌似是原版的HoverZoom被注入了恶意代码以窃取信息，这个是开源版本且声称已经移除了恶意代码，但是貌似还有一些其他问题，参看[这条issue](https://github.com/extesy/hoverzoom/issues/1648)，不过目前我没有这种插件功能的需求，简单mark一下吧 |
 | [shorthorn-project/One-Core-API-Binaries](https://github.com/shorthorn-project/One-Core-API-Binaries) | 一个可以让WinXP兼容Win10的软件项目，主要功能是支持通过设置兼容性模式运行为现代 Windows 系统设计的新程序 |                             null                             |
+|  [RamonUnch/AltSnap ](https://github.com/RamonUnch/AltSnap)  |          一款通过Alt键移动窗口和调整窗口大小的工具           |                感觉应用场景不是很刚需，先mark                |
 
