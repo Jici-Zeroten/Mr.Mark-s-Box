@@ -156,4 +156,5 @@ Hey guys, this is Mr. Mark's box. When we encounter good things on the Internet,
 |  [RamonUnch/AltSnap ](https://github.com/RamonUnch/AltSnap)  |          一款通过Alt键移动窗口和调整窗口大小的工具           |                感觉应用场景不是很刚需，先mark                |
 |                 [BL List](https://a.zli.li/)                 | 一个各大手机厂商的Bootloader解锁、内核开源、保修政策对比站。开源项目地址：[xuemian168/android-locker](https://github.com/xuemian168/android-locker) |                             null                             |
 |              [WiFi Card](https://wificard.io/)               | 一个生成WiFi连接二维码卡片的网站。开源项目地址：[bndw/wifi-card](https://github.com/bndw/wifi-card) |                             null                             |
+|     [Digitized Signatures](https://signature.cnrad.dev/)     | 一个基于你的名字快速创建一个数字签名。开源项目地址：[cnrad/keyboard-signature](https://github.com/cnrad/keyboard-signature) | 看了一眼，挺酷的。虽然是老外开发的，但没有考虑到空格、同名同姓、重复字母等情况，后续可以作为优化方向，不过仍然是个很酷的小玩具 |
 
