@@ -157,4 +157,6 @@ Hey guys, this is Mr. Mark's box. When we encounter good things on the Internet,
 |                 [BL List](https://a.zli.li/)                 | 一个各大手机厂商的Bootloader解锁、内核开源、保修政策对比站。开源项目地址：[xuemian168/android-locker](https://github.com/xuemian168/android-locker) |                             null                             |
 |              [WiFi Card](https://wificard.io/)               | 一个生成WiFi连接二维码卡片的网站。开源项目地址：[bndw/wifi-card](https://github.com/bndw/wifi-card) |                             null                             |
 |     [Digitized Signatures](https://signature.cnrad.dev/)     | 一个基于你的名字快速创建一个数字签名。开源项目地址：[cnrad/keyboard-signature](https://github.com/cnrad/keyboard-signature) | 看了一眼，挺酷的。虽然是老外开发的，但没有考虑到空格、同名同姓、重复字母等情况，后续可以作为优化方向，不过仍然是个很酷的小玩具 |
+| [Qwen-Image-Edit](https://huggingface.co/Qwen/Qwen-Image-Edit) |         阿里通义千问团队开源的一款强大的图像编辑模型         | 精准编辑这个方向是我一直在关注的，此外就是多语言支持（中、英是最低要求），有空的时候可以试试，希望千问团队给我惊喜 |
+| [dogodo-cc/chrome-redirect-skipper](https://github.com/dogodo-cc/chrome-redirect-skipper) |        一款用于跳过重定向警告页面外链提示的浏览器插件        |         目前没这种需求，感觉点一下也挺快的，先mark吧         |
 
