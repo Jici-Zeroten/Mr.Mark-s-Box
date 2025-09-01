@@ -161,4 +161,5 @@ Hey guys, this is Mr. Mark's box. When we encounter good things on the Internet,
 | [dogodo-cc/chrome-redirect-skipper](https://github.com/dogodo-cc/chrome-redirect-skipper) |        一款用于跳过重定向警告页面外链提示的浏览器插件        |         目前没这种需求，感觉点一下也挺快的，先mark吧         |
 |                       Windows优化工具                        | [ZyperWinOptimize](https://github.com/ZyperWave/ZyperWinOptimize)<br />[optimizer](https://github.com/hellzerg/optimizer)<br />[Windows轻松设置](https://www.bilibili.com/opus/904672369138729017) |                             null                             |
 |     [BookmarkHub](https://github.com/dudor/BookmarkHub)      |       一款浏览器插件，可以在不同浏览器之间同步你的书签       |                             null                             |
+|       [Cool Backgrounds](https://coolbackgrounds.io/)        |    能够生成各种色彩的背景图，可用于制做文章封面、PPT背景     |                             null                             |
 
