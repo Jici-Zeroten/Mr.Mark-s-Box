@@ -162,4 +162,6 @@ Hey guys, this is Mr. Mark's box. When we encounter good things on the Internet,
 |                       Windows优化工具                        | [ZyperWinOptimize](https://github.com/ZyperWave/ZyperWinOptimize)<br />[optimizer](https://github.com/hellzerg/optimizer)<br />[Windows轻松设置](https://www.bilibili.com/opus/904672369138729017) |                             null                             |
 |     [BookmarkHub](https://github.com/dudor/BookmarkHub)      |       一款浏览器插件，可以在不同浏览器之间同步你的书签       |                             null                             |
 |       [Cool Backgrounds](https://coolbackgrounds.io/)        |    能够生成各种色彩的背景图，可用于制做文章封面、PPT背景     |                             null                             |
+| [52 Design Principles](https://rpdc.xiaohongshu.com/52-design-principles) |                      小红书产品设计理念                      | 这是RPDC送给自己和所有设计师、研发、产品的礼物，希望前人的经验能帮助我们做更好的设计。 |
+|               [UI Notes](https://uinotes.com/)               |            一个收集了大量线上优秀App的完整UI截图             |                             null                             |
 
