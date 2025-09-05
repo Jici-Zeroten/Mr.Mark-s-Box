@@ -165,4 +165,6 @@ Hey guys, this is Mr. Mark's box. When we encounter good things on the Internet,
 | [52 Design Principles](https://rpdc.xiaohongshu.com/52-design-principles) |                      小红书产品设计理念                      | 这是RPDC送给自己和所有设计师、研发、产品的礼物，希望前人的经验能帮助我们做更好的设计。 |
 |               [UI Notes](https://uinotes.com/)               |            一个收集了大量线上优秀App的完整UI截图             |                             null                             |
 |    [米坛Wear应用库](https://www.lanzoui.com/b00n775mf?t)     | 一个已经停更的安卓智能手表精选App库。除此之外还有个在线站点：[米坛Wear应用库-在线站点](https://wear.bandbbs.cn/)。顺便再附上另外一个[Wear应用库](https://wwu.lanpv.com/b0eu9k0pe)，密码：3nj4 |                   有一些分享链接已经失效了                   |
+| [国内B端网站](https://www.yuque.com/paidaxin/dkopg8/okwuls)  |                一个收集国内B端网站的语雀文档                 |                             null                             |
+|   [B端竞品](https://www.yuque.com/paidaxin/dkopg8/vxsdb5)    |                一个收集国内B端竞品的语雀文档                 |                             null                             |
 
