@@ -167,4 +167,5 @@ Hey guys, this is Mr. Mark's box. When we encounter good things on the Internet,
 |    [米坛Wear应用库](https://www.lanzoui.com/b00n775mf?t)     | 一个已经停更的安卓智能手表精选App库。除此之外还有个在线站点：[米坛Wear应用库-在线站点](https://wear.bandbbs.cn/)。顺便再附上另外一个[Wear应用库](https://wwu.lanpv.com/b0eu9k0pe)，密码：3nj4 |                   有一些分享链接已经失效了                   |
 | [国内B端网站](https://www.yuque.com/paidaxin/dkopg8/okwuls)  |                一个收集国内B端网站的语雀文档                 |                             null                             |
 |   [B端竞品](https://www.yuque.com/paidaxin/dkopg8/vxsdb5)    |                一个收集国内B端竞品的语雀文档                 |                             null                             |
+|       [traynard](https://github.com/tabris17/traynard)       |     一款能将任意窗口最小化到系统托盘的 Windows 桌面工具      |                             null                             |
 
