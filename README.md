@@ -168,4 +168,5 @@ Hey guys, this is Mr. Mark's box. When we encounter good things on the Internet,
 | [国内B端网站](https://www.yuque.com/paidaxin/dkopg8/okwuls)  |                一个收集国内B端网站的语雀文档                 |                             null                             |
 |   [B端竞品](https://www.yuque.com/paidaxin/dkopg8/vxsdb5)    |                一个收集国内B端竞品的语雀文档                 |                             null                             |
 |       [traynard](https://github.com/tabris17/traynard)       |     一款能将任意窗口最小化到系统托盘的 Windows 桌面工具      |                             null                             |
+|     [Product Hunt 日报](https://product-daily.haha.ai/)      |         一个收录每日Product Hunt上最热门新产品的网站         |                             null                             |
 
