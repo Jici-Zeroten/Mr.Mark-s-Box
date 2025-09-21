@@ -169,4 +169,5 @@ Hey guys, this is Mr. Mark's box. When we encounter good things on the Internet,
 |   [B端竞品](https://www.yuque.com/paidaxin/dkopg8/vxsdb5)    |                一个收集国内B端竞品的语雀文档                 |                             null                             |
 |       [traynard](https://github.com/tabris17/traynard)       |     一款能将任意窗口最小化到系统托盘的 Windows 桌面工具      |                             null                             |
 |     [Product Hunt 日报](https://product-daily.haha.ai/)      |         一个收录每日Product Hunt上最热门新产品的网站         |                             null                             |
+|   [你缺失的那门计算机课](https://www.criwits.top/missing/)   |                    一个计算机基础教程网站                    |                             null                             |
 
