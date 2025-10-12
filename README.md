@@ -159,7 +159,7 @@ Hey guys, this is Mr. Mark's box. When we encounter good things on the Internet,
 |     [Digitized Signatures](https://signature.cnrad.dev/)     | 一个基于你的名字快速创建一个数字签名。开源项目地址：[cnrad/keyboard-signature](https://github.com/cnrad/keyboard-signature) | 看了一眼，挺酷的。虽然是老外开发的，但没有考虑到空格、同名同姓、重复字母等情况，后续可以作为优化方向，不过仍然是个很酷的小玩具 |
 | [Qwen-Image-Edit](https://huggingface.co/Qwen/Qwen-Image-Edit) |         阿里通义千问团队开源的一款强大的图像编辑模型         | 精准编辑这个方向是我一直在关注的，此外就是多语言支持（中、英是最低要求），有空的时候可以试试，希望千问团队给我惊喜 |
 | [dogodo-cc/chrome-redirect-skipper](https://github.com/dogodo-cc/chrome-redirect-skipper) |        一款用于跳过重定向警告页面外链提示的浏览器插件        |         目前没这种需求，感觉点一下也挺快的，先mark吧         |
-|                       Windows优化工具                        | [ZyperWinOptimize](https://github.com/ZyperWave/ZyperWinOptimize)<br />[optimizer](https://github.com/hellzerg/optimizer)<br />[Windows轻松设置](https://www.bilibili.com/opus/904672369138729017) |                             null                             |
+|                       Windows优化工具                        | [ZyperWinOptimize](https://github.com/ZyperWave/ZyperWinOptimize)<br />[optimizer](https://github.com/hellzerg/optimizer)<br />[Windows轻松设置](https://www.bilibili.com/opus/904672369138729017)<br />[Win11Debloat](https://github.com/Raphire/Win11Debloat) |                             null                             |
 |     [BookmarkHub](https://github.com/dudor/BookmarkHub)      |       一款浏览器插件，可以在不同浏览器之间同步你的书签       |                             null                             |
 |       [Cool Backgrounds](https://coolbackgrounds.io/)        |    能够生成各种色彩的背景图，可用于制做文章封面、PPT背景     |                             null                             |
 | [52 Design Principles](https://rpdc.xiaohongshu.com/52-design-principles) |                      小红书产品设计理念                      | 这是RPDC送给自己和所有设计师、研发、产品的礼物，希望前人的经验能帮助我们做更好的设计。 |
@@ -170,4 +170,8 @@ Hey guys, this is Mr. Mark's box. When we encounter good things on the Internet,
 |       [traynard](https://github.com/tabris17/traynard)       |     一款能将任意窗口最小化到系统托盘的 Windows 桌面工具      |                             null                             |
 |     [Product Hunt 日报](https://product-daily.haha.ai/)      |         一个收录每日Product Hunt上最热门新产品的网站         |                             null                             |
 |   [你缺失的那门计算机课](https://www.criwits.top/missing/)   |                    一个计算机基础教程网站                    |                             null                             |
+| [BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro?tab=readme-ov-file) | B站（bilibili）自动任务工具，支持Docker、青龙、k8s等多种部署方式 |                             null                             |
+|              [在线 DOS 游戏](https://dos.lol/)               | 中文 DOS 游戏合集，目前共有 1898 款游戏。开源项目地址：[rwv/chinese-dos-games](https://github.com/rwv/chinese-dos-games?tab=readme-ov-file) |                             null                             |
+| [web-dahuyou/NiceTab](https://github.com/web-dahuyou/NiceTab) |                   一款浏览器标签页管理工具                   |                             null                             |
+| [cornradio/tray-chrome](https://github.com/cornradio/tray-chrome) | 一个基于 WPF 和 WebView2 的轻量级托盘浏览器，专为 Windows 设计。类似 MenubarX |                             null                             |
 
