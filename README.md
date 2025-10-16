@@ -174,4 +174,6 @@ Hey guys, this is Mr. Mark's box. When we encounter good things on the Internet,
 |              [在线 DOS 游戏](https://dos.lol/)               | 中文 DOS 游戏合集，目前共有 1898 款游戏。开源项目地址：[rwv/chinese-dos-games](https://github.com/rwv/chinese-dos-games?tab=readme-ov-file) |                             null                             |
 | [web-dahuyou/NiceTab](https://github.com/web-dahuyou/NiceTab) |                   一款浏览器标签页管理工具                   |                             null                             |
 | [cornradio/tray-chrome](https://github.com/cornradio/tray-chrome) | 一个基于 WPF 和 WebView2 的轻量级托盘浏览器，专为 Windows 设计。类似 MenubarX |                             null                             |
+| [Samueli924/chaoxing](https://github.com/Samueli924/chaoxing) |     超星学习通/超星尔雅/泛雅超星全自动无人值守完成任务点     |                       这将是个英雄项目                       |
+|                   GitHub Star History统计                    | https://www.star-history.com/<br />[Awesome github star statistics tool (sinqi.tools)](https://stars.sinqi.tools/) |             我一般用自带的，不过这些看起来更精致             |
 
