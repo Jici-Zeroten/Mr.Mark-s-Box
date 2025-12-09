@@ -177,4 +177,8 @@ Hey guys, this is Mr. Mark's box. When we encounter good things on the Internet,
 | [Samueli924/chaoxing](https://github.com/Samueli924/chaoxing) |     超星学习通/超星尔雅/泛雅超星全自动无人值守完成任务点     |                       这将是个英雄项目                       |
 |                   GitHub Star History统计                    | https://www.star-history.com/<br />[Awesome github star statistics tool (sinqi.tools)](https://stars.sinqi.tools/) |             我一般用自带的，不过这些看起来更精致             |
 | [央视片库](https://tv.cctv.com/yxg/#datacid=dsj&datafl=&datadq=&fc=电视剧&datanf=&dataszm=) | 涵盖央视最新最全的纪录片、动画片、电视剧以及各类晚会、大会等特别节目。 |                           童年回忆                           |
+|          [BuildCores](https://www.buildcores.com/)           |     在线组装电脑并检查各硬件兼容性，可实时查看3D组装效果     |      使用时要开启浏览器设置中的【启用图形加速】以使用3D      |
+|              [MoeWalls](https://moewalls.com/)               |                    提供4K免费动态壁纸下载                    | 仅提供壁纸素材，使用的时候搭配一个可以设置桌面动态壁纸的软件即可 |
+|        [Sweezy Cursors](https://sweezy-cursors.com/)         |                    一个鼠标光标皮肤下载站                    |                             null                             |
+|                       特朗普社媒信息源                       | [唐纳德·特朗普的社交媒体使用情况 - 维基百科](https://en.wikipedia.org/wiki/Social_media_use_by_Donald_Trump)<br />[Truth Social](https://truthsocial.com/@realDonaldTrump/)<br />[Donald J. Trump (donaldjtrump.com)](https://www.donaldjtrump.com/)<br />[Facebook](https://www.facebook.com/DonaldTrump/)<br />[Instagram](https://www.instagram.com/realdonaldtrump/?hl=en) |                             null                             |
 
