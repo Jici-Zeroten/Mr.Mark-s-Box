@@ -187,4 +187,5 @@ Hey guys, this is Mr. Mark's box. When we encounter good things on the Internet,
 |               [PinMe](https://pinme.eth.limo/)               | 一个快速部署网站的工具，可用于部署前端页面进行公网展示。项目地址：[glitternetwork/pinme](https://github.com/glitternetwork/pinme) |                             null                             |
 | [中国移动资费公示专区](https://h.app.coc.10086.cn/cmcc-app/pc-pages/tariffZonePers.html) |                  一个中国移动套餐明细查询站                  | 确实是中移官方域名的表单，逻辑上虽然App、10086、营业厅上某些套餐不显示，但只要这里有的套餐就能办，去线下营业厅说套餐名，具体看办理方式 |
 |                      **美联储降息预测**                      | [FedWatch - CME Group](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html?utm_source=chatgpt.com)<br />[美国-FedWatch升降息概率](https://sc.macromicro.me/charts/77/probability-fed-rate-hike?utm_source=chatgpt.com) |                             null                             |
+|           [KeyStats](https://keystats.vercel.app/)           | 一款键鼠统计工具，在不记录具体输入内容的前提下，量化用户的输入行为，支持统计键盘敲击次数、鼠标点击次数、鼠标移动和滚动距离。项目地址：[debugtheworldbot/keyStats](https://github.com/debugtheworldbot/keyStats) |                             有趣                             |
 
