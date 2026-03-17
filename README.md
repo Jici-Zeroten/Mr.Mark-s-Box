@@ -189,4 +189,5 @@ Hey guys, this is Mr. Mark's box. When we encounter good things on the Internet,
 |                      **美联储降息预测**                      | [FedWatch - CME Group](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html?utm_source=chatgpt.com)<br />[美国-FedWatch升降息概率](https://sc.macromicro.me/charts/77/probability-fed-rate-hike?utm_source=chatgpt.com) |                             null                             |
 |           [KeyStats](https://keystats.vercel.app/)           | 一款键鼠统计工具，在不记录具体输入内容的前提下，量化用户的输入行为，支持统计键盘敲击次数、鼠标点击次数、鼠标移动和滚动距离。项目地址：[debugtheworldbot/keyStats](https://github.com/debugtheworldbot/keyStats) |                             有趣                             |
 |             [S.H.I.T](https://shitjournal.org/)              | 一个戏仿学术期刊的网站，自称 “学术垃圾收容所”，核心收录用严谨学术格式包装的荒诞、脑洞、失败或 “垃圾” 类内容 |                             null                             |
+|                          黄仁勋博客                          | [Jensen Huang Author Page](https://blogs.nvidia.com/blog/author/jen-hsun-huang/)<br />[NVIDIA 英伟达博客](https://blogs.nvidia.cn/) |                             null                             |
 
