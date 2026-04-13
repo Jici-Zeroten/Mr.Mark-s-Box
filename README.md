@@ -191,6 +191,6 @@ Hey guys, this is Mr. Mark's box. When we encounter good things on the Internet,
 |             [S.H.I.T](https://shitjournal.org/)              | 一个戏仿学术期刊的网站，自称 “学术垃圾收容所”，核心收录用严谨学术格式包装的荒诞、脑洞、失败或 “垃圾” 类内容 |                             null                             |
 |                          黄仁勋博客                          | [Jensen Huang Author Page](https://blogs.nvidia.com/blog/author/jen-hsun-huang/)<br />[NVIDIA 英伟达博客](https://blogs.nvidia.cn/) |                             null                             |
 |               [3MinTop](https://ai.3min.top/)                |                         3分钟AI日报                          |                             null                             |
-|                    https://edu.52it.de/zh                    |                    一个学生资源福利汇总站                    |                             null                             |
+|                   学生资源福利/教育优惠站                    |     https://nav.edumails.cn/<br />https://edu.52it.de/zh     |                             null                             |
 |           [MyAnimeList](https://myanimelist.net/)            |             全球最大的二次元作品数据库和社交社区             |                             null                             |
 
