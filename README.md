@@ -193,4 +193,5 @@ Hey guys, this is Mr. Mark's box. When we encounter good things on the Internet,
 |               [3MinTop](https://ai.3min.top/)                |                         3分钟AI日报                          |                             null                             |
 |                   学生资源福利/教育优惠站                    |     https://nav.edumails.cn/<br />https://edu.52it.de/zh     |                             null                             |
 |           [MyAnimeList](https://myanimelist.net/)            |             全球最大的二次元作品数据库和社交社区             |                             null                             |
+|               [Freepik](https://freepik.com/)                |                     全球知名设计素材平台                     |                             null                             |
 
