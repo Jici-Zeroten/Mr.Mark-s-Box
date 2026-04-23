@@ -196,4 +196,5 @@ Hey guys, this is Mr. Mark's box. When we encounter good things on the Internet,
 |               [Freepik](https://freepik.com/)                |                     全球知名设计素材平台                     |                             null                             |
 | [awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | 一个汇集了众多流行品牌设计系统的开源仓库，你只需将其中的 DESIGN.md 文件放入项目中，就能让 AI 编码助手生成与之匹配的完美 UI 界面 |                             null                             |
 |                    Screen Studio 替代方案                    | [Siddharthvaddem/OpenScreen](https://github.com/siddharthvaddem/openscreen)<br />[webadderall/Recordly](https://github.com/webadderall/Recordly) |                             null                             |
+| [Fluid-Weiqi](https://github.com/WangNianyi2001/Fluid-Weiqi) |                           液态围棋                           |                      很有创意，脑洞大开                      |
 
