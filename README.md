@@ -199,4 +199,5 @@ Hey guys, this is Mr. Mark's box. When we encounter good things on the Internet,
 | [Fluid-Weiqi](https://github.com/WangNianyi2001/Fluid-Weiqi) |                           液态围棋                           |                      很有创意，脑洞大开                      |
 | [LanRhyme/MicYou](https://github.com/LanRhyme/MicYou/tree/master) |         一个可以把安卓手机变成电脑的无线麦克风的工具         |                             null                             |
 |              [Buzzing](https://www.buzzing.cc/)              |                  一个用中文展示的外媒聚合站                  |                             null                             |
+|       [推特起爆帖](https://sopilot.net/zh/hot-tweets)        |                一个推文聚合站，主要是AI和Web3                |                             null                             |
 
