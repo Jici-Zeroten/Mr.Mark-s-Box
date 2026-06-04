@@ -200,4 +200,5 @@ Hey guys, this is Mr. Mark's box. When we encounter good things on the Internet,
 | [LanRhyme/MicYou](https://github.com/LanRhyme/MicYou/tree/master) |         一个可以把安卓手机变成电脑的无线麦克风的工具         |                             null                             |
 |              [Buzzing](https://www.buzzing.cc/)              |                  一个用中文展示的外媒聚合站                  |                             null                             |
 |       [推特起爆帖](https://sopilot.net/zh/hot-tweets)        |                一个推文聚合站，主要是AI和Web3                |                             null                             |
+|  [KurtGokhan/tegaki](https://github.com/KurtGokhan/tegaki)   | 一个前端JS手写动画库，可将任意字体自动生成逐笔书写的手写动画 |                             null                             |
 
