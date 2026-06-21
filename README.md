@@ -201,4 +201,9 @@ Hey guys, this is Mr. Mark's box. When we encounter good things on the Internet,
 |              [Buzzing](https://www.buzzing.cc/)              |                  一个用中文展示的外媒聚合站                  |                             null                             |
 |       [推特起爆帖](https://sopilot.net/zh/hot-tweets)        |                一个推文聚合站，主要是AI和Web3                |                             null                             |
 |  [KurtGokhan/tegaki](https://github.com/KurtGokhan/tegaki)   | 一个前端JS手写动画库，可将任意字体自动生成逐笔书写的手写动画 |                             null                             |
+|                      多设备共享键鼠工具                      | [feschber/lan-mouse](https://github.com/feschber/lan-mouse)<br />[input-leap/input-leap](https://github.com/input-leap/input-leap)<br />[deskflow/deskflow](https://github.com/Deskflow/Deskflow) |                             null                             |
+
+
+
+
 
