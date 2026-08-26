@@ -205,4 +205,5 @@ Hey guys, this is Mr. Mark's box. When we encounter good things on the Internet,
 |                           看图软件                           | [Honeyview](https://www.bandisoft.com/honeyview/)<br />[FastStone Image Viewer](https://www.faststone.org/)<br />[ImageGlass](https://imageglass.org/)<br />[IrfanView](https://www.irfanview.com/) |                             null                             |
 |    [PaperTodo](https://github.com/snownico0722/PaperTodo)    |               一个极简的 Windows 桌面便签工具                |                             null                             |
 |   [bitchat](https://github.com/permissionlesstech/bitchat)   |           一个基于蓝牙 Mesh 的去中心化即时通讯项目           |                             有趣                             |
+|      [sketchbook](https://github.com/MengTo/sketchbook)      | 一本新加坡的翻页速写本。一个静态 HTML 文件：拖动即可翻页，拖动放大镜即可在页面上移动。 |                          很好的创意                          |
 
