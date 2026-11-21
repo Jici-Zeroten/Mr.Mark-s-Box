@@ -207,4 +207,7 @@ Hey guys, this is Mr. Mark's box. When we encounter good things on the Internet,
 |   [bitchat](https://github.com/permissionlesstech/bitchat)   |           一个基于蓝牙 Mesh 的去中心化即时通讯项目           |                             有趣                             |
 |      [sketchbook](https://github.com/MengTo/sketchbook)      | 一本新加坡的翻页速写本。一个静态 HTML 文件：拖动即可翻页，拖动放大镜即可在页面上移动。 |                          很好的创意                          |
 |          [hypit](https://github.com/hypit-ai/hypit)          |                 让 AI Agent 复刻任何爆款视频                 |                             null                             |
+| [reverse-interview-zh](https://github.com/perkfly/reverse-interview-zh) |                  技术面试最后反问面试官的话                  |                             null                             |
+|     [run-abroad](https://github.com/RadishXN/run-abroad)     | 填10项基本信息，从71条签证/移民路径里筛出适合你的，并告诉你还差什么 |                             null                             |
+| [misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager) |                一款开源跨平台下载器，对标 IDM                |                             null                             |
 
